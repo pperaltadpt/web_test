@@ -36,5 +36,5 @@ Próximamente disponible vía GitHub Pages...
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre Aquí] – con apoyo de ChatGPT 🤖
+Desarrollado por dptxman – con apoyo de ChatGPT 🤖
 
